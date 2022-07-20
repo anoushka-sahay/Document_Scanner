@@ -13,7 +13,7 @@ Initial Image
 ![img2](https://user-images.githubusercontent.com/104036893/180033302-d14ea508-51dd-41d1-aac1-e195f48cb28f.jpeg)
 Output Image
 ![img2op](https://user-images.githubusercontent.com/104036893/180033396-f4bb25ca-a019-4d59-98ad-7c21124f4154.jpeg)
-## Documentation
+# Documentation
 ##1.RESIZE
 We have used the function cv2.resize to convert all the images to dimension 480X640.
 ##2.GRAY IMAGE
